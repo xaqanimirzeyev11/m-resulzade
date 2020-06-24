@@ -1,0 +1,66 @@
+body{
+    background-color: moccasin;
+    }
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(93, 87, 87);
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.text-axc{
+   margin-top: 20px;
+}
+.click{
+    text-align: center;
+}
+button{
+    width: 10rem;
+    height: 2rem;
+    margin-left:10px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+   .button-1, .button-2{
+       color: red;
+   }
+   .button-1:hover, .button-2:hover{
+       background: darkturquoise;
+       color:black;
+   }
+a{
+    text-decoration: none;
+}
+/* .Xoyski :hover{
+    background-image: image(/photo/1.jpg);
+    background-color: rgb(124, 115, 115);
+} */
+.Xosrov :hover{
+    background-image: image();
+}
+.Hacınski :hover{
+    background-image: image();
+}
+.Nəsib :hover{
+    background-image: image();
+}
+.Xəlil :hover{
+    background-image: image();
+}
+.basliq{
+    text-align: center;
+    font-size: 25px;
+}
+.az-xerite{
+    font-size: 20px;
+    font-style: oblique;
+}
+.Himn{
+    text-align: center;
+}
+.az-video{
+    position: fixed;
+    margin-left: 400px;
+}
